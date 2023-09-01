@@ -4,4 +4,4 @@
 
  https://s3kiro24.github.io/Weather-forecast/
 
- See the Weather just by typing the city that you want and pressing enter 
+ See the Weather just by typing the city that you want and pressing search
